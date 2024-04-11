@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-bot",
+  "version": "1.0.0",
+  "description": "a discord bot for random leetcode problems",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "T.K. Huynh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
